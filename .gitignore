@@ -1,0 +1,26 @@
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# NetBeans
+/nbproject/private/
+/dist/
+/build/
+
+# IntelliJ / VSCode
+/.idea/
+/*.iml
+/.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Server artifacts
+*.war
+*.ear
+*.jar
+domain*/generated/
+
+# Local env
+*.log
